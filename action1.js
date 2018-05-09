@@ -1,4 +1,4 @@
 main function(params) {
-  Console.log("trigger deploy finally work");
+  Console.log("trigger deploy Oliver");
   return { output: params };
 }

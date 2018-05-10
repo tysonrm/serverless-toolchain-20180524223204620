@@ -1,4 +1,3 @@
-main function(params) {
-  Console.log("trigger deploy is webhook relay up?");
-  return { output: params };
+function main(params) {
+  return { output: "trivial action: " + params };
 }

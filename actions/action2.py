@@ -1,2 +1,2 @@
 def main(args):
-    return {"greeting": args}
+    return { "results": args}

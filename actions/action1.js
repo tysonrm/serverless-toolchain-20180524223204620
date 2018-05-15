@@ -1,3 +1,3 @@
 function main(params) {
-  return { output: "trivial action: " + params };
+  return { results: params };
 }
